@@ -23,3 +23,4 @@ class Config:
 
 config = Config
 print(config.DB_URL)
+
